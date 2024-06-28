@@ -15,7 +15,7 @@ This website introduces famous restaurants in Da Nang, including information abo
 **Installation**
 
 - Download the Project:
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/Nguyenvu11/Nguyenvu11.github.io.git
 cd repo-name
 
 - Open the Project:
