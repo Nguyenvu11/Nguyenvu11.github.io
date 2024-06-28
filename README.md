@@ -12,6 +12,12 @@ This website introduces famous restaurants in Da Nang, including information abo
 - Restaurant Details: Displays detailed information about each restaurant, including address, menu, opening hours, and reviews.
 - Contact Page: Provides contact information and a form to submit feedback.
 
+<img width="1000" alt="Homerestaurant" src="https://github.com/Nguyenvu11/Nguyenvu11.github.io/assets/85069392/d4a649ca-7576-49bc-9f29-45266dbab867">
+<img width="1000" alt="Homerestaurant1" src="https://github.com/Nguyenvu11/Nguyenvu11.github.io/assets/85069392/ab5f3fbc-1315-4a81-886b-145ce1c49b72">
+<img width="1000" alt="Homerestaurant2" src="https://github.com/Nguyenvu11/Nguyenvu11.github.io/assets/85069392/bc92ead7-f3bd-4235-98d0-08986bcded7b">
+<img width="1000" alt="Homerestaurant3" src="https://github.com/Nguyenvu11/Nguyenvu11.github.io/assets/85069392/1fa13e3a-ea85-4402-9858-3f8d096f5835">
+
+
 **Installation**
 
 - Download the Project:
